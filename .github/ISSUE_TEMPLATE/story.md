@@ -12,4 +12,4 @@ I need [function],
 so that [benefit].
 
 ### Acceptance Criteria
-›
+
